@@ -1,6 +1,6 @@
 #!/bin/bash
 cd frontend
-pip install -r requirements.txt
+#pip install -r requirements.txt
 npm install -g pnpm
 pnpm install
 pnpm run build
